@@ -1,0 +1,6 @@
+sunday-sprinters-reel-lab
+generated_images
+site-tmp
+node_modules
+.next
+*.tsbuildinfo
